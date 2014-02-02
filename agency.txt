@@ -1,0 +1,6 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+LRTA,Manila Light Rail Transit Authority,http://www.lrta.gov.ph/,Asia/Manila,,
+LTFRB,LTFRB,http://www.ltfrb.gov.ph/,Asia/Manila,,
+MRTC,Manila Metro Rail Transit Corporation,http://dotcmrt3.gov.ph,Asia/Manila,,
+Maritime Industry Authority,MARINA,http://www.marina.gov.ph,Asia/Manila,,
+PNR,Philippine National Railways,http://www.pnr.gov.ph/,Asia/Manila,,
